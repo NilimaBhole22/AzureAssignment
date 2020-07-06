@@ -1,0 +1,5 @@
+C:\Users\nilima.bhole\source\repos\DemoApplication\DemoApplication.Service\bin\Debug\netstandard2.0\DemoApplication.Service.deps.json
+C:\Users\nilima.bhole\source\repos\DemoApplication\DemoApplication.Service\bin\Debug\netstandard2.0\DemoApplication.Service.dll
+C:\Users\nilima.bhole\source\repos\DemoApplication\DemoApplication.Service\obj\Debug\netstandard2.0\DemoApplication.Service.csprojAssemblyReference.cache
+C:\Users\nilima.bhole\source\repos\DemoApplication\DemoApplication.Service\obj\Debug\netstandard2.0\DemoApplication.Service.AssemblyInfoInputs.cache
+C:\Users\nilima.bhole\source\repos\DemoApplication\DemoApplication.Service\obj\Debug\netstandard2.0\DemoApplication.Service.AssemblyInfo.cs
